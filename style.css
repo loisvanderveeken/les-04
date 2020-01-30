@@ -1,0 +1,18 @@
+body {
+    color:black;
+    font-family:Helvetica;
+    padding:20px;
+}
+
+#header { 
+    height:60px;
+    background:#ff5ff7;
+    color: black;
+    max-resolution: bottom 60px;
+    text-align:center;}
+}
+
+
+#foto {
+    position: absolute;
+}
